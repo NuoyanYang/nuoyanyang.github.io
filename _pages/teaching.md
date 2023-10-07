@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /courses/
 title: Course
 description: Courses that I take at University of Waterloo. 
 nav: true

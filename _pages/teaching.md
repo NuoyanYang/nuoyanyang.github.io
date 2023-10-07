@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Course
-description: Courses that I learn. 
+description: Courses that I take at University of Waterloo. 
 nav: true
 nav_order: 5
 ---

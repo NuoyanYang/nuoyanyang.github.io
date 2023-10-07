@@ -17,6 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a master student in University of Waterloo. The program is Master of Data Science and Artificial Intelligence (MDSAI).
+I am currently a master's student at the University of Waterloo, pursuing the Master of Data Science and Artificial Intelligence (MDSAI) program. Prior to this, I completed my Bachelor of Computing (Honours) with a specialization in Computing, Mathematics, and Analytics at Queen's University in Kingston.
 
 More later...

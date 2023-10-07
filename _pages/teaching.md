@@ -1,12 +1,13 @@
-<!-- ---
+---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Course
+description: Courses that I learn. 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like! -->
+Fall 2023:
+* CS 600 -- Fundamentals of CS for DS
+* CS 631 -- Data-Intensive Dist. Analytics
+* CS 794 -- Optimization for Data Science
